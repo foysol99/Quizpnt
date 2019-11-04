@@ -24,16 +24,16 @@ public class Exam1 {
         Quiz.Exam1 info = new Quiz.Exam1();
         Quiz.Exam1 info2 = new Quiz.Exam1();
         Quiz.Exam1 info1 = new Quiz.Exam1();
-        info.name = "Nitish";
+        info.name = "Foysol";
         info.subject = "Math";
         info.marks = 65.4;
 
-        info1.name = "Bob";
+        info1.name = "Tanveer";
         info1.subject = "Social Science";
         info1.marks = 87.4;
 
 
-        info2.name = "Vaneet";
+        info2.name = "Nafi";
         info2.subject = "Science";
         info2.marks = 82.3;
 
