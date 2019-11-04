@@ -17,10 +17,10 @@ import java.util.Scanner;
             System.out.println("Total numbers of students is "+ x);
 
             ArrayList<String>info = new ArrayList<>();
-            info.add("Vaneet");
-            info.add("Padmo");
-            info.add("Tom");
-            info.add("Ronny");
+            info.add("Tanveer");
+            info.add("Foysol");
+            info.add("Nafi");
+            info.add("Siful");
 
             System.out.println(info);
             Scanner info1 = new Scanner(System.in);
